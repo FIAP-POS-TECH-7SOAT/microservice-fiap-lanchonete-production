@@ -1,0 +1,18 @@
+﻿{
+  "defaultAssembly": "FiapLanchonete.Infrastructure",
+  "modules": [
+    {
+      "type": "FiapLanchonete.Infrastructure.Modules.WebApiModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "FiapLanchonete.Infrastructure.Modules.ApplicationModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "FiapLanchonete.Infrastructure.MongoDataAccess.Module"
+    }
+  ]
+}

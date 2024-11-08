@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Infrastructure\\FiapLanchonete.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Application\\FiapLanchonete.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Application\\FiapLanchonete.Application.csproj",
+        "projectName": "FiapLanchonete.Application",
+        "projectPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Application\\FiapLanchonete.Application.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\FiapLanchonete.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\FiapLanchonete.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\FiapLanchonete.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\FiapLanchonete.Domain.csproj",
+        "projectName": "FiapLanchonete.Domain",
+        "projectPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\FiapLanchonete.Domain.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Infrastructure\\FiapLanchonete.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Infrastructure\\FiapLanchonete.Infrastructure.csproj",
+        "projectName": "FiapLanchonete.Infrastructure",
+        "projectPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Infrastructure\\FiapLanchonete.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rafae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Application\\FiapLanchonete.Application.csproj": {
+                "projectPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Application\\FiapLanchonete.Application.csproj"
+              },
+              "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\FiapLanchonete.Domain.csproj": {
+                "projectPath": "C:\\Users\\rafae\\Documents\\github-repos\\microservice-fiap-lanchonete-production\\FiapLanchonete.Domain\\FiapLanchonete.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
